@@ -17,7 +17,6 @@ public class contains_duplicate {
     }
 
     public static void main(String[] args){
-        System.out.println("Hola Cambrone!");
         int[] nums = {1,2,3,3};
         int[] bums = {1,2,3,4};
         int[] lums = {1,3};
